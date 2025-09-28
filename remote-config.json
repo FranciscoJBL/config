@@ -1,6 +1,6 @@
 {
-  "version": 1.1,
-  "updatedAt": "2025-09-27T00:00:00Z",
+  "version": 1.2,
+  "updatedAt": "2025-09-27T01:00:00Z",
   "creatorMint": "BifBX5wYyY8drdTPZjfUzgrWTBg5dahphb92md3wpump",
   "gateThresholds": {
     "base": 0.0001,
@@ -16,5 +16,13 @@
   },
   "featureFlags": {
     "autoOpenPanel": true
+  },
+  "token": {
+    "mint": "Aurus",
+    "label": "Aurus token",
+    "symbol": "AUR",
+    "decimals": 9,
+    "priceSol": 1,
+    "priceSource": "native"
   }
 }
