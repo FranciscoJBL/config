@@ -20,7 +20,7 @@
   "token": {
     "mint": "Aurus",
     "label": "Aurus token",
-    "symbol": "AUR",
+    "symbol": "AURUS",
     "decimals": 9,
     "priceSol": 1,
     "priceSource": "native"
