@@ -1,7 +1,7 @@
 {
-  "version": 1.2,
-  "updatedAt": "2025-09-27T01:00:00Z",
-  "creatorMint": "BifBX5wYyY8drdTPZjfUzgrWTBg5dahphb92md3wpump",
+  "version": 1.3,
+  "updatedAt": "2025-10-09T01:00:00Z",
+  "creatorMint": "So11111111111111111111111111111111111111112",
   "gateThresholds": {
     "base": 0.0001,
     "premium": 0.001
@@ -18,9 +18,9 @@
     "autoOpenPanel": true
   },
   "token": {
-    "mint": "Aurus",
-    "label": "Aurus token",
-    "symbol": "AURUS",
+    "mint": "So11111111111111111111111111111111111111112",
+    "label": "Solana",
+    "symbol": "SOL",
     "decimals": 9,
     "priceSol": 1,
     "priceSource": "native"
